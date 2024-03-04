@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Aji Setiawan'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -46,6 +46,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - .vscode
   - LICENSE.md
   - LICENSE
   - README.md
